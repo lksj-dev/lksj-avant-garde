@@ -3,3 +3,6 @@ node_modules
 
 # VitePress cache
 docs/.vitepress/cache/
+
+# VitePress build result
+docs/.vitepress/dist/

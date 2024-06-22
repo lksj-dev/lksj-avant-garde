@@ -24,5 +24,26 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/lksj-dev/lksj-avant-garde' }
     ]
+  },
+  locales: {
+    root: {
+      label: 'English',
+      lang: 'en'
+    },
+    'zh-HanS': {
+      label: '简体中文',
+      lang: 'zh-HanS',
+      themeConfig: {
+        sidebar: [
+          {
+            text: 'WIP',
+            items: [
+              { text: 'Markdown Examples', link: '/markdown-examples' },
+              { text: 'Runtime API Examples', link: '/api-examples' }
+            ]
+          }
+        ],
+      }
+    }
   }
 })
