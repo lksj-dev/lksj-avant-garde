@@ -1,0 +1,5 @@
+# Node.js packages
+node_modules
+
+# VitePress cache
+docs/.vitepress/cache/
