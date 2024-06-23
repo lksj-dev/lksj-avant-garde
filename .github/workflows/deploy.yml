@@ -13,12 +13,12 @@ jobs:
         uses: actions/checkout@v3
       - name: Get Wrangler
         shell: bash
-        run: pnpm install wrangler --save-dev
+        run: npm install wrangler --save-dev
       - name: Build pages
         shell: bash
-        run: pnpm run docs:build
+        run: npm run docs:build
       - name: Publish
         shell: bash
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CF_TOKEN }}
-        run: pnpx wrangler pages deploy docs/.vitepress/dist/ --project-name lksj-avant-garde
+        run: npx wrangler pages deploy docs/.vitepress/dist/ --project-name lksj-avant-garde
