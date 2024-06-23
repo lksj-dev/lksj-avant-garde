@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import zhHanS from './locale/zh-HanS'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -8,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Projects Listing', link: '/listing/' }
     ],
 
     sidebar: [
@@ -18,6 +19,14 @@ export default defineConfig({
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
+      },
+      {
+        text: 'Project Listing',
+        link: '/listing/',
+        items: [
+          { text: 'Dumpster', link: '/listing/dumpster'}
+        ],
+        collapsed: false
       }
     ],
 
@@ -30,20 +39,6 @@ export default defineConfig({
       label: 'English',
       lang: 'en'
     },
-    'zh-HanS': {
-      label: '简体中文',
-      lang: 'zh-HanS',
-      themeConfig: {
-        sidebar: [
-          {
-            text: 'WIP',
-            items: [
-              { text: 'Markdown Examples', link: '/markdown-examples' },
-              { text: 'Runtime API Examples', link: '/api-examples' }
-            ]
-          }
-        ],
-      }
-    }
+    ...zhHanS
   }
 })

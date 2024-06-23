@@ -8,8 +8,8 @@ hero:
   tagline: 复活 Harbinger 第 39、第 40 章
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 项目列表
+      link: /zh-HanS/listing
     - theme: alt
       text: API Examples
       link: /api-examples

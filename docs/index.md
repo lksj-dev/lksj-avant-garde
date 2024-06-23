@@ -8,8 +8,8 @@ hero:
   tagline: Resurrecting Harbinger Chapter 39 & 40
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: View projects
+      link: /listing/
     - theme: alt
       text: API Examples
       link: /api-examples
