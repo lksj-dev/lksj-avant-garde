@@ -9,11 +9,18 @@ export default {
             ],
             sidebar: [
                 {
-                    text: 'WIP',
+                    text: '前言',
                     items: [
-                        { text: 'Markdown Examples', link: '/markdown-examples' },
-                        { text: 'Runtime API Examples', link: '/api-examples' }
+                        { text: '为什么？', link: '/zh-HanS/motivation' }
                     ]
+                },
+                {
+                  text: '项目列表',
+                  link: '/listing/',
+                  items: [
+                    { text: '大号垃圾桶', link: '/listing/dumpster'}
+                  ],
+                  collapsed: false
                 }
             ],
         }
