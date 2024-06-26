@@ -21,6 +21,8 @@ features:
     details: One-stop solution to lighting decoration.
   - title: Nostalgic Treasure Bag
     details: Reminiscence of a certain old mod.
+  - title: Mire & Peat
+    details: Farming peat from mire, giving your excessive moss blocks a use.
   - title: Salmonite
     details: Sample implementation of a fictional ore, supporting fortune and silk touch.
   - title: Scranton Reality Anchor

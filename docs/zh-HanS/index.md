@@ -25,6 +25,8 @@ features:
     details: 虚构矿石的参考实现，支持时运、精准采集等附魔。
   - title: 灯饰
     details: 你的一站式照明解决方案。
+  - title: 泥炭
+    details: 让苔藓块更有用！
   - title: 水泉
     details: 无限水，但是固执己见版
   - title: 更多案例即将到来
