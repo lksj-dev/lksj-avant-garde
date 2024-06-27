@@ -16,14 +16,22 @@ export default defineConfig({
       {
         text: 'Preface',
         items: [
-          { text: 'Why', link: '/motivation' },
+          { text: 'What?', link: '/introduction' },
+          { text: 'Why?', link: '/motivation' },
+          { text: 'Any more examples?', link: '/further-reading' }
         ]
       },
       {
         text: 'Project Listing',
         link: '/listing/',
         items: [
-          { text: 'Dumpster', link: '/listing/dumpster'}
+          { text: 'Dumpster', link: '/listing/dumpster' },
+          { text: 'Lighting Décor', link: '/listing/lighting_decor' },
+          { text: 'Mire & Peat', link: '/listing/mire_and_peat' },
+          { text: 'Nostalgic Treasure Bag', link: '/listing/nostalgic_treasure_bag' },
+          { text: 'Salmonite', link: '/listing/salmonite' },
+          { text: 'Scranton Reality Anchor', link: 'listing/scranton_reality_anchor' },
+          { text: 'Water Spring', link: '/listing/water_spring' }
         ],
         collapsed: false
       }

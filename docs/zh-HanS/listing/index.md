@@ -6,7 +6,8 @@
 |-------------------------|-----------------------------|-------------------------|
 | 斯克兰顿现实稳定锚         |
 | 复古藏宝袋                |
-| 大号垃圾桶                | 
+| 大号垃圾桶                | 1.21                       | Fabric, Forge, NeoForge |
 | 鲑岩                    | 1.19.2, 1.20.4, 1.21        | Fabric, Forge, NeoForge |
 | 灯饰                    | 1.21                        | Fabric, Forge, NeoForge |
+| 泥炭                    | 1.20.1, 1.21                | Fabric, Forge, NeoForge |
 | 水泉                    | 1.20.2                      | Fabric, NeoForge        |
