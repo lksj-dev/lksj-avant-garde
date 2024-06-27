@@ -2,6 +2,10 @@
 
 This mod adds ~~a solution to the anomaly that chunks will randomly disappear from current universe~~ a chunk loader.
 
+## Source Code
+
+https://github.com/lksj-dev/lksj-ag-sra
+
 ## History
 
 May of 2020. I was preparing for TeaCon 2020, and I need a lot of tools for this online convention event. 

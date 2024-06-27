@@ -4,6 +4,10 @@ This mod brings back the Water Spring block from BuildCraft.
 This block has the exact same appearance and behavior as vanilla bedrock, except that Water Spring block will 
 spawn a water source block on top of it whenever it finds space above.
 
+## Source Code
+
+https://github.com/lksj-dev/lksj-ag-waterspring
+
 ## History
 
 This mod was created for testing if I could use non-English mod name and description on CurseForge and Modrinth. 

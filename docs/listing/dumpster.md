@@ -2,6 +2,10 @@
 
 This mod adds a working, performant trash can that voids items, fluids and energy. 
 
+## Source Code
+
+https://github.com/lksj-dev/lksj-ag-dumpster
+
 ## History
 
 This mod was a commission for a modpack circa 2019. 

@@ -10,6 +10,10 @@ for it takes *very long* time for peatland to replenish its peat deposit, and it
 faster.
 :::
 
+## Source Code
+
+https://github.com/lksj-dev/lksj-ag-mire-and-peat
+
 ## History
 
 A texture artist said he got free time and was available for commissioning textures for “anything organic”. 

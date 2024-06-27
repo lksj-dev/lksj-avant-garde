@@ -2,6 +2,10 @@
 
 本 Mod 仅添加一款三合一垃圾桶方块，可高效销毁物品、流体及各种能量。
 
+## 源代码
+
+https://github.com/lksj-dev/lksj-ag-dumpster
+
 ## 历史
 
 本 Mod 最初是 2018 年年底为某个整合包写的定制 Mod。但实际上，当时我写这个 Mod 还有一层更深层的原因：对市面上现有的垃圾桶 Mod 中「使用 `ITickable` TilEntity 的不满」。

@@ -2,6 +2,10 @@
 
 This mod adds a fictional rock: Salmonite. Mining it gives you vanilla raw salmon.
 
+## Source Code
+
+https://github.com/lksj-dev/lksj-ag-salmonite
+
 ## History
 
 The idea of this mod was firstly mentioned circa. Nov. 2023 in a group chat. 
