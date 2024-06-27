@@ -6,6 +6,14 @@ This mod adds a fictional rock: Salmonite. Mining it gives you vanilla raw salmo
 
 https://github.com/lksj-dev/lksj-ag-salmonite
 
+## What can I Learn From This?
+
+- How to register a block?
+- How to register the item form of the block?
+- How to require a correct tool for mining the block, otherwise nothing drops?
+- How to make Fortune enchantment affect your block drops?
+- How to make Silk Touch enchantment affect your block drops?
+
 ## History
 
 The idea of this mod was firstly mentioned circa. Nov. 2023 in a group chat. 

@@ -3,6 +3,14 @@
 This mod adds some new decoration blocks; most, if not all, of new blocks are light source with maximum 
 light level (15).
 
+## Source Code
+
+*Coming soon*
+
+## What Can I Learn From This?
+
+*Coming soon*
+
 ## History
 
 May of 2019. A friend of mine reached me, requesting for a new mod adding chandeliers, to be used in a 

@@ -14,6 +14,17 @@ faster.
 
 https://github.com/lksj-dev/lksj-ag-mire-and-peat
 
+## What Can I Learn From This?
+
+- How to register a block?
+- How to register the item form of the block?
+- How to register a standalone item?
+- How to mark my item as a valid furnace fuel?
+- How to make shovel as the most efficient tool to mine my block?
+- How to make Fortune enchantment affect your block drops?
+- How to let my block “grow up” using random ticks?
+- How to make my block model randomly rotates, like vanilla grass block?
+
 ## History
 
 A texture artist said he got free time and was available for commissioning textures for “anything organic”. 
