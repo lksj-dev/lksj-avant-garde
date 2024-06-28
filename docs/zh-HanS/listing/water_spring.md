@@ -8,6 +8,12 @@
 
 https://github.com/lksj-dev/lksj-ag-waterspring
 
+## 我能从中学到什么？
+
+- 如何注册方块？
+- 怎样让方块不可破坏？
+- 怎样让方块响应紧邻六个面上的方块更新？
+
 ## 历史
 
 该 Mod 最初是我用来测试 CurseForge 和 Modrinth 是否允许使用非英文 Mod 名称和介绍的。我为此需要一个正儿八经的 Mod，然后我就想到了如今鲜有人问津的《建筑》Mod 中的水泉。

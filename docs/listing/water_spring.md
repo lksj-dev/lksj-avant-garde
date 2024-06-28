@@ -8,6 +8,12 @@ spawn a water source block on top of it whenever it finds space above.
 
 https://github.com/lksj-dev/lksj-ag-waterspring
 
+## What can I Learn From This?
+
+- How to register a block?
+- How to make a block unbreakable?
+- How to react to block updates from neighboring blocks?
+
 ## History
 
 This mod was created for testing if I could use non-English mod name and description on CurseForge and Modrinth. 
