@@ -6,6 +6,16 @@
 
 https://github.com/lksj-dev/lksj-ag-dumpster
 
+## 我能从中学到什么？
+
+- 如何注册方块？
+- 如何注册方块对应的物品形态？
+- 如何使用方块实体？
+- （Fabric、Forge、NeoForge 限定）怎样才能让我的方块可以与其他物流设备（漏斗、管道、AE 网络、……）交互？
+  - （Fabric 限定）如何使用 Transfer API？
+  - （Forge 限定）如何使用 Capability 系统？
+  - （NeoForge 限定）怎样让没有方块实体的普通方块也可通过 Capability 系统与其他 Mod 交互？
+
 ## 历史
 
 本 Mod 最初是 2018 年年底为某个整合包写的定制 Mod。但实际上，当时我写这个 Mod 还有一层更深层的原因：对市面上现有的垃圾桶 Mod 中「使用 `ITickable` TilEntity 的不满」。

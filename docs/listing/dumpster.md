@@ -6,6 +6,16 @@ This mod adds a working, performant trash can that voids items, fluids and energ
 
 https://github.com/lksj-dev/lksj-ag-dumpster
 
+## What can I Learn From This?
+
+- How to register a block?
+- How to register the item form of the block?
+- How to create a block entity for my block?
+- (Fabric, Forge, NeoForge) How can I make my block interact with other means of transportation?
+  - (Fabric only) How to use Transfer API?
+  - (Forge only) How to use capabilities?
+  - (NeoForge only) How to use capabilities without a block entity?
+
 ## History
 
 This mod was a commission for a modpack circa 2019. 
