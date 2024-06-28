@@ -15,7 +15,8 @@ export default {
                     items: [
                         { text: '这是什么？', link: '/zh-HanS/introduction' },
                         { text: '为什么？', link: '/zh-HanS/motivation' },
-                        { text: '还有更多示范吗？', link: '/zh-HanS/further-reading' }
+                        { text: '还有更多示范吗？', link: '/zh-HanS/further-reading' },
+                        { text: '有无未来规划？', link: '/zh-HanS/plan' }
                     ]
                 },
                 {

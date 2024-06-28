@@ -18,7 +18,8 @@ export default defineConfig({
         items: [
           { text: 'What?', link: '/introduction' },
           { text: 'Why?', link: '/motivation' },
-          { text: 'Any more examples?', link: '/further-reading' }
+          { text: 'Any more examples?', link: '/further-reading' },
+          { text: 'Any future plan?', link: '/plan' }
         ]
       },
       {
